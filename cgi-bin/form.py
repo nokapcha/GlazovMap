@@ -6,19 +6,19 @@ import codecs
 sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
 form = cgi.FieldStorage()
-text1 = form.getfirst("TEXT_1", "не задано")
-text2 = form.getfirst("TEXT_2", "не задано")
+text1 = form.getfirst("TEXT_1", "РЅРµ Р·Р°РґР°РЅРѕ")
+text2 = form.getfirst("TEXT_2", "РЅРµ Р·Р°РґР°РЅРѕ")
 
 print("Content-type: text/html\n")
 print("""<!DOCTYPE HTML>
         <html>
         <head>
             <meta charset="utf-8">
-            <title>Обработка данных форм</title>
+            <title>РћР±СЂР°Р±РѕС‚РєР° РґР°РЅРЅС‹С… С„РѕСЂРј</title>
         </head>
         <body>""")
 
-print("<h1>Обработка данных форм!</h1>")
+print("<h1>РћР±СЂР°Р±РѕС‚РєР° РґР°РЅРЅС‹С… С„РѕСЂРј!</h1>")
 print("<p>TEXT_1: {}</p>".format(text1))
 print("<p>TEXT_2: {}</p>".format(text2))
 
