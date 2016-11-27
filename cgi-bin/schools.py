@@ -1,0 +1,1 @@
+sys.stdout.write( "Content-type: image/png\r\n\r\n" + file("schools.png","rb").read() )
