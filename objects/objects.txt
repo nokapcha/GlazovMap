@@ -1,1 +1,2 @@
 1 schools.txt schools.png
+2 cafe.txt cafe.png
