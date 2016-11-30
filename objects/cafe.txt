@@ -1,4 +1,4 @@
-1$58.139312$52.666964$Comfortable
-2$58.139903$52.680059$Mi-Mi-Np
-3$58.140203$52.677312$Southern Fried Chicken
-4$58.139604$52.675449$Fathers house
+1 58.139312 52.666964 Comfortable
+2 58.139903 52.680059 Mi-Mi-Np
+3 58.140203 52.677312 Southern Fried Chicken
+4 58.139604 52.675449 Fathers house
