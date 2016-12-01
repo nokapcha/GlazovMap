@@ -21,8 +21,8 @@ ymaps.ready(function () {
 
 def getJSmark(Mid, x,y,text,ico):
     s = ",\n myPlacemark" + str(Mid) + " = new ymaps.Placemark([" + str(x) + ", " + str(y) + "], {\n" 
-    s += "hintContent: '" + text + "',\n"
-    s += "balloonContent: ''\n" 
+    #s += "hintContent: '" + text + "',\n"
+    s += "balloonContent: '" + text + "'\n" 
     s += "}, {\n" 
     s += "iconLayout: 'default#image',\n"
     s += "iconImageHref: '/images/" + ico + "',\n"
@@ -70,7 +70,7 @@ def getMarks():
 def getJSpoly(Mid, points, text, backColor, MainColor, alpha, bold):
     s = "\n myGeoObject" + str(Mid) + """ = new ymaps.GeoObject({geometry: {type: "Polygon",coordinates: [["""
     s += points + ',\n'
-    s += """]],fillRule: "nonZero"},properties: {hintContent:" """
+    s += """]],fillRule: "nonZero"},properties: {balloonContent:" """
     s += text + """ "\n  }}, {fillColor:"""
     if backColor == "std":
         s += "'#00FF00',\n"
