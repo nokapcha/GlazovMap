@@ -4,8 +4,20 @@ import sys
 import codecs
 import os
 
+form = cgi.FieldStorage()
+filt = form.getlist("obj")
+targetID = []
+for i in filt:
+    targetID.append(int(i))
+
+filt = form.getlist("poly")
+for i in filt:
+    targetID.append(int(i))
+
+if targetID == []:
+    targetID = list(range(0,100))
 #sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
-targetID = list(range(0,100))#get from url
+#targetID = list(range(0,100))#get from url
 MapScript = """
 ymaps.ready(function () {
     var myMap = new ymaps.Map('map', {
@@ -131,7 +143,42 @@ def getPoly():
         MapScript += "myMap.geoObjects.add(myGeoObject" + str(i) + ");\n"
     #Finalization
     #MapScript += "});"
-    
+
+def getFiltersObj():
+    global targetID
+    importFiles = []
+    #Main file of mark objects
+    obj = open("objects/objects.txt", 'r')
+    objs = obj.readlines()
+    obj.close()
+    s = ""
+    for i in objs:
+        data = i.split()
+        if i == '\n':
+            continue
+        if int(data[0]) in targetID:
+            s += '<input type="checkbox" name="obj" value = "' + data[0] + '" checked>' + data[3] + "<Br>" + "\n"
+        else:
+            s += '<input type="checkbox" name="obj" value = "' + data[0] + '">' + data[3] + "<Br>" + "\n"
+    return s
+
+def getFiltersPoly():
+    global targetID
+    importFiles = []
+    #Main file of mark objects
+    obj = open("polygon/polygon.txt", 'r')
+    objs = obj.readlines()
+    obj.close()
+    s = ""
+    for i in objs:
+        data = i.split()
+        if i == '\n':
+            continue
+        if int(data[0]) in targetID:
+            s += '<input type="checkbox" name="poly" value = "' + data[0] + '" checked>' + data[2] + "<Br>" + "\n"
+        else:
+            s += '<input type="checkbox" name="poly" value = "' + data[0] + '">' + data[2] + "<Br>" + "\n"
+    return s
 getMarks()
 getPoly()
 #Finalization
@@ -158,8 +205,25 @@ print("""
     </script>
 
 	<style>
-        html, body, #map {
-            width: 100%; height: 100%; padding: 0; margin: 0;
+        html, body {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        #map {
+            width: 80%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            float:left;
+        }
+        #text{
+            width: 18%;
+            height: 100%;
+            padding: 5px;
+            margin: 0;
+            float:right;
         }
     </style>
 </head>
@@ -167,6 +231,21 @@ print("""
 
 
 <div id="map" ></div>
+<div id="text" >
+<br>
+     <form action="map.py">
+      <p><b>Choose the objects</b><Br>""")
+print(getFiltersObj())
+      # <input type="checkbox" name="ie" > Internet Explorer<Br>
+      # <input type="checkbox" name="op" > Opera<Br>
+      # <input type="checkbox" name="ff" > Firefox<Br>
+print("<p><b>Choose the polygone</b><Br>")
+print(getFiltersPoly())
+print("""
+      </p>
+      <p><input type="submit" value="Submit"></p>
+     </form>
+</div>
 </body>
 </html>
 """)
