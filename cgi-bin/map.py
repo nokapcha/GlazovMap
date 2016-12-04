@@ -32,6 +32,8 @@ ymaps.ready(function () {
 
 
 def getJSmark(Mid, x,y,text,ico):
+    text = text.replace("'",r"\'")
+    #text = text.replace(r"\n","\n")
     s = ",\n myPlacemark" + str(Mid) + " = new ymaps.Placemark([" + str(x) + ", " + str(y) + "], {\n" 
     #s += "hintContent: '" + text + "',\n"
     s += "balloonContent: '" + text + "'\n" 
@@ -80,6 +82,8 @@ def getMarks():
 
 
 def getJSpoly(Mid, points, text, backColor, MainColor, alpha, bold):
+    text = text.replace("'",r"\'")
+    text = text.replace('"',r'\"')
     s = "\n myGeoObject" + str(Mid) + """ = new ymaps.GeoObject({geometry: {type: "Polygon",coordinates: [["""
     s += points + ',\n'
     s += """]],fillRule: "nonZero"},properties: {balloonContent:" """
@@ -220,11 +224,20 @@ print("""
         }
         #text{
             width: 18%;
-            height: 100%;
-            padding: 5px;
+            height: 98% - 5px;
+            padding: 1%;
             margin: 0;
             float:right;
         }
+        #footer {
+            position: fixed;
+            bottom:0;
+            padding: 5px; 
+            background: #FFFFFF;
+            color: #000000; 
+            width: 100%;
+       }
+
     </style>
 </head>
 <body>
@@ -236,16 +249,18 @@ print("""
      <form action="map.py">
       <p><b>Choose the objects</b><Br>""")
 print(getFiltersObj())
-      # <input type="checkbox" name="ie" > Internet Explorer<Br>
-      # <input type="checkbox" name="op" > Opera<Br>
-      # <input type="checkbox" name="ff" > Firefox<Br>
 print("<p><b>Choose the polygone</b><Br>")
 print(getFiltersPoly())
 print("""
       </p>
       <p><input type="submit" value="Submit"></p>
      </form>
+    <div id="footer">
+       
+       <a href="https://github.com/AsciiShell/GlazovMap">Repository on GitHub</a>
+    </div>
 </div>
+
 </body>
 </html>
 """)
