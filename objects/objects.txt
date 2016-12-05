@@ -1,2 +1,4 @@
 1 schools.txt schools.png Schools
-2 cafe.txt cafe.png Cafes
+2 dosug.txt dosug.gif DosugPlace
+3 economy.txt economy.png Economy
+4 education.txt education.jpg Education

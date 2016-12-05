@@ -161,9 +161,10 @@ def getFiltersObj():
         if i == '\n':
             continue
         if int(data[0]) in targetID:
-            s += '<input type="checkbox" name="obj" value = "' + data[0] + '" checked>' + data[3] + "<Br>" + "\n"
+            s += '<input type="checkbox" name="obj" value = "' + data[0] + '" checked>'
         else:
-            s += '<input type="checkbox" name="obj" value = "' + data[0] + '">' + data[3] + "<Br>" + "\n"
+            s += '<input type="checkbox" name="obj" value = "' + data[0] + '">'
+        s += '<img src="../images/' + data[2] + '" style="width:16px;height:16px;" align="top">' + data[3] +  "\n""<Br>" +"\n"
     return s
 
 def getFiltersPoly():
