@@ -196,7 +196,7 @@ print("""
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset="utf-8" />
     <title>Карта Глазова с метками</title>
-    
+    <link rel="shortcut icon" href="../images/ico.ico" type="image/x-icon">
     <!-- Если вы используете API локально, то в URL ресурса необходимо указывать протокол в стандартном виде (http://...)-->
     <script src="//api-maps.yandex.ru/2.1/?lang=en_RU" type="text/javascript"></script>
     
