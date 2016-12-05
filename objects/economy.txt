@@ -1,4 +1,4 @@
 300 58.149653 52.657908 The Chepetsky Mechanical Plant 
-301 58.130935 52.608866 The Glasov Poultry Factory
+301 58.130935 52.608866 The Glazov Poultry Factory
 302 58.149041 52.665960 The Distillery Plant Glazovsky
-303 58.132423 52.685084 The Galzov Furniture Factory
+303 58.132423 52.685084 The Glazov Furniture Factory
