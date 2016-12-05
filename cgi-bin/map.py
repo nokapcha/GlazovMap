@@ -190,14 +190,14 @@ MapScript += "});"
 #sys.exit(0)     
 print("Content-type: text/html\n")
 
-print("""
-<!DOCTYPE html>
+print("""<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset="utf-8" />
-    <title>Карта Глазова с метками</title>
-    <link rel="shortcut icon" href="../images/ico.ico" type="image/x-icon">
-    <!-- Если вы используете API локально, то в URL ресурса необходимо указывать протокол в стандартном виде (http://...)-->
+<meta charset="utf-8">
+
+<link rel="shortcut icon" href="../images/ico.ico" type="image/x-icon">
+
+    <title>Glazov map with places</title>
     <script src="//api-maps.yandex.ru/2.1/?lang=en_RU" type="text/javascript"></script>
     
     <script type="text/javascript">
