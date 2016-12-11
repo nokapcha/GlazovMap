@@ -49,7 +49,7 @@ def getObjects():
     global targetID
     importFiles = []
     #Main file of mark objects
-    obj = open("objects/objects.txt", 'r')
+    obj = open("objects/objects.txt", 'r', encoding='utf-8')
     objs = obj.readlines()
     obj.close()
     for line in objs:
@@ -68,7 +68,7 @@ def getMarks():
     importFiles = getObjects()
     importPoints = []
     for i in importFiles:
-        obj = open("objects/" + i[0], 'r')
+        obj = open("objects/" + i[0], 'r', encoding='utf-8')
         objs = obj.readlines()
         obj.close()
         for j in objs:
@@ -106,7 +106,7 @@ def getJSpoly(Mid, points, text, backColor, MainColor, alpha, bold):
     if bold == "std":
         s += "strokeWidth: 5,\n"
     else:
-        s += "opacity:" + bold + ",\n"
+        s += "strokeWidth:" + bold + ",\n"
     s += "}),"
     return s
 
@@ -115,7 +115,7 @@ def getPolyFiles():
     global targetID
     importFiles = []
     #Main file of mark objects
-    obj = open("polygon/polygon.txt", 'r')
+    obj = open("polygon/polygon.txt", 'r', encoding='utf-8')
     objs = obj.readlines()
     obj.close()
     for line in objs:
@@ -134,7 +134,7 @@ def getPoly():
     importFiles = getPolyFiles()
     importPoints = []
     for i in importFiles:
-        obj = open("polygon/" + i, 'r')
+        obj = open("polygon/" + i, 'r', encoding='utf-8')
         objs = obj.readlines()
         obj.close()
         for j in objs:
@@ -152,7 +152,7 @@ def getFiltersObj():
     global targetID
     importFiles = []
     #Main file of mark objects
-    obj = open("objects/objects.txt", 'r')
+    obj = open("objects/objects.txt", 'r', encoding='utf-8')
     objs = obj.readlines()
     obj.close()
     s = ""
@@ -171,7 +171,7 @@ def getFiltersPoly():
     global targetID
     importFiles = []
     #Main file of mark objects
-    obj = open("polygon/polygon.txt", 'r')
+    obj = open("polygon/polygon.txt", 'r', encoding='utf-8')
     objs = obj.readlines()
     obj.close()
     s = ""
@@ -216,6 +216,9 @@ print("""
             padding: 0;
             margin: 0;
         }
+		p, h2{
+			margin: 0px;
+		}
         #map {
             width: 80%;
             height: 100%;
@@ -225,7 +228,6 @@ print("""
         }
         #text{
             width: 18%;
-            height: 98% - 5px;
             padding: 1%;
             margin: 0;
             float:right;
@@ -246,7 +248,6 @@ print("""
 
 <div id="map" ></div>
 <div id="text" >
-<br>
      <form action="map.py">
       <p><b>Choose the objects</b><Br>""")
 print(getFiltersObj())
@@ -256,6 +257,7 @@ print("""
       </p>
       <p><input type="submit" value="Submit"></p>
      </form>
+	 <a href="../index.html">ReadMe</a>
     <div id="footer">
        
        <a href="https://github.com/AsciiShell/GlazovMap">Repository on GitHub</a>
