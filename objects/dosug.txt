@@ -3,7 +3,7 @@
 103 58.139810 52.675427 <h2>Restaurant "PAPA House"</h2><br>Siberian 2, Glazov, Udmurtia Republic, 427 620<br>8 (341) 413-43-43<br>Open: 10-1
 104 58.028947 52.506814 <img src="../images/gorlitsa.jpg" style="width:400px;height:398px;"><br>+7 (34141) 9-93-33<br><p><a href="http://gorlitca.ru">gorlitca.ru</a></p>Restaurant, air conditioning, Guest Parking, Laundry, Billiards<br>Rooms: 7<br>Type of hotel: business hotel<br>Stars: 3 stars
 105 58.136588 52.671763 Cafe "Boulevar"<br><img src="../images/Boulever.jpg" style="width:400px;height:225px;"><br>Str. Revolution, 14, Glazov, Udmurtia Republic, 427 621<br>glazovclub.ru<br>
-106 58.139894 52.680005 mi-mi-no
+106 58.139894 52.680005 <img src="../images/Mi-mi-no.jpg" style="width:200px;height:361px;"><br>mi-mi-no
 107 58.142872 52.656610 <h2>Cafe-Restaurant "Akitori"</h2><br><img src="../images/Bk.jpg" style="width:400px;height:139px;"><br> <br>Str. Lenin, 11, Glazov, Udmurtia Republic, 427622<br>Open: 11-0
 108 58.141206 52.655014 <img src="../images/Progress.jpg" style="width:400px;height:267px;"><br>Figure skating, hockey, public skating, concerts, exhibitions.<br>Location Ice Sports Palace "Progress" Glazov:<br>427,620, Glazov Udmurt Republic<br>Str. Kirov, 38<br>Hours of working:<br> Fri: 8: 00-17: 00, W: 8: 30-17: 00, Wed 8: 00-17: 00, Thu: 8: 30-17: 00, Fri: 8: 00-17: 00<br>Contact phone Ice Palace "Progress" Glazov:<br>tel .: +7 (34141) 36020
 110 58.140341 52.671545 <h2>Cinema "Starkinolux"</h2><br><img src="../images/Films.jpg" style="width:400px;height400:px;"><br> <br>Sq. Liberty 9, Glazov, Udmurtia Republic, 427 621 <br><p><a href="http://starkinolux.ru">Website</a></p>	

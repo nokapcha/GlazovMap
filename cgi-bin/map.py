@@ -257,7 +257,8 @@ print("""
       </p>
       <p><input type="submit" value="Submit"></p>
      </form>
-	 <a href="../index.html">ReadMe</a>
+	 <br>
+	 <a href="../index.html" target="_blank">ReadMe</a>
     <div id="footer">
        
        <a href="https://github.com/AsciiShell/GlazovMap">Repository on GitHub</a>

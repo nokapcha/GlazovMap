@@ -1,0 +1,2 @@
+400 58.138444 52.655474 <img src="../images/EVS1.jpg" style="width:400px;height:300px;">price: buy - 1 900 000; rent - 10 000 rubles per month. 
+401 58.140101 52.689503 <img src="../images/EVS2.jpg" style="width:400px;height:250px;">price: buy - 1 700 000; rent - 8 000 rubles per month.

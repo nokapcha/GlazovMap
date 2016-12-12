@@ -3,3 +3,4 @@
 3 economy.txt economy.png Economy
 4 education.txt education.jpg Education
 5 admin.txt Octocat_github.png ReadMe
+6 house.txt dosug.gif House
