@@ -1,0 +1,1 @@
+500 58.1327748 52.6674299 <h2>Railway Station</h2> <br> <p>Way to Moscow (1200km)</p> <br> <p>Way to Vladivostok (8000km)</p> <br> <p>Way to Black Sea (2500km)</p> <br> <p>Way to the Ural Mountains (400km)</p>

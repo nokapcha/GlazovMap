@@ -2,3 +2,4 @@
 3 economy.txt economy.png Economy
 4 education.txt education.jpg Education
 6 house.txt eye.ico House
+8 Vokzal.txt train.jpg Transport
