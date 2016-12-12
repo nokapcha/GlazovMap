@@ -1,0 +1,220 @@
+95.46.116.54 - - [12/Dec/2016 21:03:30] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:30] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.46.116.54 - - [12/Dec/2016 21:03:31] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 21:03:31] "GET /images/schools.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:31] "GET /images/dosug.gif HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:31] "GET /images/economy.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:31] "GET /images/education.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:31] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:03:32] "GET /images/ico.ico HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:17] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:17] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+92.38.33.65 - - [12/Dec/2016 21:04:18] CGI script exited OK
+92.38.33.65 - - [12/Dec/2016 21:04:18] "GET /images/schools.png HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:18] "GET /images/dosug.gif HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:18] "GET /images/economy.png HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:18] "GET /images/education.jpg HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:18] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:04:19] "GET /images/ico.ico HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:05:27] "GET /images/EVS1.jpg HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:05:36] "GET /images/egg.png HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:06:12] "GET /images/Boulever.jpg HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:06:25] "GET /images/Mi-mi-no.jpg HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:34] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:34] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.108.133.229 - - [12/Dec/2016 21:06:35] CGI script exited OK
+95.108.133.229 - - [12/Dec/2016 21:06:35] "GET /images/schools.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:35] "GET /images/economy.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:35] "GET /images/education.jpg HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:35] "GET /images/dosug.gif HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:35] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:06:37] "GET /images/ico.ico HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:06:47] "GET /cgi-bin/map.py?obj=2&poly=99 HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:06:47] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+92.38.33.65 - - [12/Dec/2016 21:06:47] CGI script exited OK
+92.38.33.65 - - [12/Dec/2016 21:06:57] "GET /images/gorlitsa.jpg HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:54] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:54] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.108.133.229 - - [12/Dec/2016 21:08:54] CGI script exited OK
+95.108.133.229 - - [12/Dec/2016 21:08:55] "GET /images/schools.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:55] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:55] "GET /images/education.jpg HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:55] "GET /images/economy.png HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:55] "GET /images/dosug.gif HTTP/1.1" 200 -
+95.108.133.229 - - [12/Dec/2016 21:08:56] "GET /images/ico.ico HTTP/1.1" 200 -
+66.102.9.148 - - [12/Dec/2016 21:12:16] "GET / HTTP/1.1" 200 -
+66.102.9.144 - - [12/Dec/2016 21:12:17] "GET /images/GH.jpg HTTP/1.1" 200 -
+66.102.9.148 - - [12/Dec/2016 21:12:17] code 404, message File not found
+66.102.9.148 - - [12/Dec/2016 21:12:17] "GET /favicon.ico HTTP/1.1" 404 -
+66.102.9.148 - - [12/Dec/2016 21:12:31] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+66.102.9.148 - - [12/Dec/2016 21:12:31] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+66.102.9.148 - - [12/Dec/2016 21:12:32] CGI script exited OK
+66.102.9.148 - - [12/Dec/2016 21:12:33] "GET /images/schools.png HTTP/1.1" 200 -
+66.102.9.144 - - [12/Dec/2016 21:12:33] "GET /images/economy.png HTTP/1.1" 200 -
+66.102.9.148 - - [12/Dec/2016 21:12:33] "GET /images/education.jpg HTTP/1.1" 200 -
+66.102.9.146 - - [12/Dec/2016 21:12:33] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+66.102.9.146 - - [12/Dec/2016 21:12:33] "GET /images/dosug.gif HTTP/1.1" 200 -
+66.102.9.146 - - [12/Dec/2016 21:12:33] "GET /images/ico.ico HTTP/1.1" 200 -
+92.38.33.65 - - [12/Dec/2016 21:19:49] "GET /images/Mi-mi-no.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:39:19] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:39:19] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.46.116.54 - - [12/Dec/2016 21:39:20] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 21:39:21] "GET /images/ico.ico HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:46] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:47] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+78.85.73.175 - - [12/Dec/2016 21:39:47] CGI script exited OK
+78.85.73.175 - - [12/Dec/2016 21:39:51] "GET /images/schools.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:52] "GET /images/dosug.gif HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:52] "GET /images/economy.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:52] "GET /images/education.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:52] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:39:52] "GET /images/ico.ico HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:40:04] "GET /images/egg.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:40:26] "GET /index.html HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:40:26] "GET /images/GH.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:40:30] code 404, message File not found
+78.85.73.175 - - [12/Dec/2016 21:40:30] "GET /favicon.ico HTTP/1.1" 404 -
+78.85.73.175 - - [12/Dec/2016 21:41:06] "GET /images/OKC.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:41:49] "GET /images/Key.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:13] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:13] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+78.85.73.175 - - [12/Dec/2016 21:42:14] CGI script exited OK
+78.85.73.175 - - [12/Dec/2016 21:42:15] "GET /images/schools.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:15] "GET /images/dosug.gif HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:15] "GET /images/economy.png HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:15] "GET /images/education.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:42:15] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:42:23] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:42:23] "GET /images/GH.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:42:24] code 404, message File not found
+95.46.116.54 - - [12/Dec/2016 21:42:24] "GET /favicon.ico HTTP/1.1" 404 -
+78.85.73.175 - - [12/Dec/2016 21:42:57] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:43:29] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:43:58] "GET /images/egg.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:44:03] "GET /images/Key.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:44:04] "GET /images/OKC.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:44:28] "GET /images/EVS1.jpg HTTP/1.1" 200 -
+78.85.73.175 - - [12/Dec/2016 21:44:39] "GET /images/EVS2.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:46:26] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:46:27] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:46:35] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:46:35] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 21:46:36] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 21:46:51] "GET /images/Mi-mi-no.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:47:16] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:55:46] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:28] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:28] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 21:56:28] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 21:56:49] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:49] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:53] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:53] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:58] "GET /index.html HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 21:56:58] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:38] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:38] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 22:14:39] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 22:14:39] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:40] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:44] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:44] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 22:14:45] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 22:14:59] "GET /cgi-bin/map.py?obj=6 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:14:59] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 22:15:00] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 22:15:00] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:27] "GET /cgi-bin/map.py?obj=6 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:27] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:18:27] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:18:27] "GET /images/schools.png HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/dosug.gif HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/economy.png HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/education.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:28] "GET /images/ico.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:34] "GET /images/EVS1.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:18:39] "GET /images/EVS2.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:02] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:02] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:19:02] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:19:02] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:08] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6&poly=99 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:08] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:19:08] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:19:16] "GET /images/GH.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:28] "GET /cgi-bin/map.py?obj=6 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:28] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:19:29] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:19:31] "GET /cgi-bin/map.py?obj=6&poly=99 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:31] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:19:32] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:19:48] "GET /images/egg.png HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:53] "GET /cgi-bin/map.py?obj=1 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:19:53] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:19:54] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:19:54] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:20:58] "GET /cgi-bin/map.py?obj=1 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:20:58] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:20:59] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:20:59] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:14] "GET /cgi-bin/map.py?obj=2 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:14] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:21:14] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:21:21] "GET /images/Mi-mi-no.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:29] "GET /images/Boulever.jpg HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:34] "GET /cgi-bin/map.py?obj=6 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:34] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:21:35] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:21:40] "GET /cgi-bin/map.py?obj=6&poly=99 HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:40] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+146.120.107.119 - - [12/Dec/2016 22:21:41] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:21:46] "GET /cgi-bin/map.py? HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 22:21:46] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+146.120.107.119 - - [12/Dec/2016 22:21:46] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 22:21:46] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:32:35] "GET /cgi-bin/map.py?obj=5 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:32:35] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 22:32:36] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 22:32:36] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:38:40] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6&poly=99 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:38:40] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 22:38:41] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 22:38:42] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:39:04] "GET /images/Bk.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:39:06] "GET /images/Progress.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:39:10] "GET /images/Boulever.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:39:14] "GET /images/Mi-mi-no.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 22:39:18] "GET /images/EVS2.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:00:55] "GET /cgi-bin/map.py?obj=1&obj=2&obj=3&obj=4&obj=5&obj=6&poly=99 HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:00:55] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py
+95.46.116.54 - - [12/Dec/2016 23:00:57] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 23:00:57] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:00:58] "GET /images/ico.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:31:38] "GET /cgi-bin/map.py HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:31:38] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.46.116.54 - - [12/Dec/2016 23:31:39] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 23:31:39] "GET /images/Octocat_github.png HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:31:39] "GET /images/eye.ico HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 23:33:56] "GET /cgi-bin/map.py? HTTP/1.1" 200 -
+146.120.107.119 - - [12/Dec/2016 23:33:56] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+146.120.107.119 - - [12/Dec/2016 23:33:57] CGI script exited OK
+146.120.107.119 - - [12/Dec/2016 23:33:57] code 404, message File not found
+146.120.107.119 - - [12/Dec/2016 23:33:57] "GET /favicon.ico HTTP/1.1" 404 -
+95.46.116.54 - - [12/Dec/2016 23:34:27] "GET /cgi-bin/map.py? HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:34:27] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.46.116.54 - - [12/Dec/2016 23:34:28] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 23:51:04] "GET /cgi-bin/map.py? HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:51:04] command: C:\Users\Coding\AppData\Local\Programs\Python\Python35-32\python.exe -u D:\Projects\GlazovMap\cgi-bin\map.py ""
+95.46.116.54 - - [12/Dec/2016 23:51:05] CGI script exited OK
+95.46.116.54 - - [12/Dec/2016 23:51:05] "GET /images/eye.ico HTTP/1.1" 200 -
+95.46.116.54 - - [12/Dec/2016 23:51:05] "GET /images/ico.ico HTTP/1.1" 200 -
+91.219.157.4 - - [13/Dec/2016 00:02:03] "GET /images/GH.jpg HTTP/1.1" 200 -
+91.219.157.4 - - [13/Dec/2016 00:02:03] code 404, message File not found
+91.219.157.4 - - [13/Dec/2016 00:02:03] "GET /favicon.ico HTTP/1.1" 404 -
+95.46.116.54 - - [13/Dec/2016 00:06:03] "GET /images/GH.jpg HTTP/1.1" 200 -
+95.46.116.54 - - [13/Dec/2016 00:06:08] "GET /images/GH.jpg HTTP/1.1" 200 -
+188.242.151.247 - - [13/Dec/2016 00:07:05] code 404, message File not found
+188.242.151.247 - - [13/Dec/2016 00:07:05] "GET http://www.google.com/ HTTP/1.0" 404 -
+95.46.116.54 - - [13/Dec/2016 00:07:18] "GET /index.html HTTP/1.1" 200 -

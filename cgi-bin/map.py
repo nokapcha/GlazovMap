@@ -251,8 +251,8 @@ print("""
      <form action="map.py">
       <p><b>Choose the objects</b><Br>""")
 print(getFiltersObj())
-print("<p><b>Choose the polygone</b><Br>")
-print(getFiltersPoly())
+#print("<p><b>Choose the polygone</b><Br>")
+#print(getFiltersPoly())
 print("""
       </p>
       <p><input type="submit" value="Submit"></p>
