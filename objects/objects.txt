@@ -1,4 +1,4 @@
-2 dosug.txt 404.gif DosugPlace
+2 Entertainment.txt Entertainment.png Entertainment 
 3 economy.txt economy.png Economy
 4 education.txt education.png Education
 6 house.txt eye.ico House

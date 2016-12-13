@@ -9,6 +9,6 @@
 110 58.140341 52.671545 <h2>Cinema "Starkinolux"</h2><br><img src="../images/Films.jpg" style="width:400px;height400:px;"><br> <br>Sq. Liberty 9, Glazov, Udmurtia Republic, 427 621 <br><p><a href="http://starkinolux.ru">Website</a></p>	
 110 58.142075 52.647959 <h2>Cultural Center "Russia"</h2><br><img src="../images/OKC.jpg" style="width:400px;height:300px;"><br> <br>Administrator: Aydar Sahapov<br><p><a href="http://okc-russia.ru">Website </a></p><br>Phone: 8 (34141) 3-26-90<br>Address: Str. Sovetskaya, d. 29
 111 58.140620 52.691968 <h2>Quests "lost"</h2><br><img src="../images/Key.jpg" style="width:200px;height:499px;"><br> <br>Freedom Square, 8 ,, Glazov, Udmurtia Republic, 427 621<br>8 (912) 003-10-01<br><p><a href="http://lost-quest.com">Website</a></p>
-112 58.131159 52.640522 <h2> Crustal</h2><br>Bowling,billiards,pool,cafe,sauna,children's room<br>Open:<br>Mon-Fri: 12:00 - 21:00<br>Sat, Sun: 10:00 - 21:00<br>Str.Sovetskaya,46 <br>8 (34141)3-47-70<br><p><a href="https://vk.com/rc.kristall">Website</a><p>
-113 58.136628 52.672292 <h2>The theatre "Paraphraz"</h2><br>Str.Revolution,14<br>book tikets 8 (34141)5-71-45<br><br>Open<br>
-114 58.143503 52.654462 <h2>Park</h2><br>Crossing Str.Lenina Str.Dzerginskogo <br>
+112 58.131159 52.640522 <img src="../images/Cristal.png" style="width:400px;height:294px;"><h2> Crustal</h2><br>Bowling,billiards,pool,cafe,sauna,children's room<br>Open:<br>Mon-Fri: 12:00 - 21:00<br>Sat, Sun: 10:00 - 21:00<br>Str.Sovetskaya,46 <br>8 (34141)3-47-70<br><p><a href="https://vk.com/rc.kristall">Website</a><p>
+113 58.136628 52.672292 <img src="../images/Feater.jpg" style="width:400px;height:267px;"><h2>The theatre "Paraphraz"</h2><br>Str.Revolution,14<br>book tikets 8 (34141)5-71-45<br><br>Open<br>
+114 58.143503 52.654462 <img src="../images/Park.jpg" style="width:400px;height:252px;"><h2>Park</h2><br>Crossing Str.Lenina Str.Dzerginskogo <br>
